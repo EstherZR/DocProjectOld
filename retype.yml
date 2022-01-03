@@ -3,11 +3,13 @@ output: .retype
 url: https://github.com/EstherZR/tutoriais
 branding:
 
-  logo: img/ezrlogo4.png
+  logo: img/DOClogo.png
 
   title: Tutoriais
   label: V 1.0
   logoDark: img/ezrlogo.png
+  favicon: img/ezrlogo.png
+  strategy: <script type="text/javascript" src="/resources/js/retype.js" />
   
 links:
 - text: Getting Started
