@@ -1,4 +1,4 @@
-#EZR Tutoriais
+# EZR Tutoriais
 
 Olá, eu sou a Esther!
 Seja bem Vindos à minha página de documentação.  😍
