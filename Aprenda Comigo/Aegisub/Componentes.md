@@ -1,0 +1,1 @@
+Vamos conhecer toda a tela do Aegisub
