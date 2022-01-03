@@ -17,5 +17,6 @@ jobs:
       - uses: retypeapp/action-build@v1
 
       - uses: retypeapp/action-github-pages@v1
-        with:
+        with: 
+          branch: retype 
           update-branch: true
