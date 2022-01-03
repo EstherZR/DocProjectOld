@@ -1,9 +1,14 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://github.com/EstherZR/DocProject
 branding:
-  title: Project Name
-  label: Docs
+
+  logo: img/ezrlogo4.png
+
+  title: Tutoriais
+  label: V 1.0
+  logoDark: img/ezrlogo.png
+  
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
