@@ -12,13 +12,14 @@ Nesse tutorial, iremos aprender a usá-lo.
 
 ![Logo do Aegisub](../img/Aegisub-logo.png "Aegisub")
 
-![](../img/barra.png)
-
+<br>
 
 #  Primeiros Passos
+![](../img/barra.png)
 
 Para começar, precisamos entender o processo de legendas.
 As legendas são crias e podem ser salvar com extensão _.ass_ ou _.txt_.
+
 !!!
 É importante entender que o _Aegisub_ não fixa a leganda ao vídeo (esse processo é chamado de _encode_ e precisa de outro software para realizá-lo).
 !!!
@@ -36,11 +37,14 @@ Fluxo:
 
 ##  Quais programas necessários?
 
-O primeiro passo é realizar o download dos programas:
+O primeiro passo é realizar o download do Aegisub:
 
 [Baixe o Aegisub aqui!](https://drive.google.com/file/d/0B4PUVC4xalppRVBkdXIxd2FsYjg/view?usp=sharing&resourcekey=0-O_68n6xx3magle4ac5tMvw)
 
+Também usaremos o _Any Vídeo Converter_ para realizar o encode (fixar a legenda) ao vídeo:
 
+[Baixe o ANC aqui!]
+(https://drive.google.com/file/d/1_RyD8lNCFH2xcOZb7fAol7rd-wKdLX4U/view?usp=sharing)
 ---
 
 ## Como instalar o Aegisub?
