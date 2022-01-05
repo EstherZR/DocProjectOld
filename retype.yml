@@ -6,9 +6,9 @@ branding:
   logo: img/DOClogo2.png
 
   title: Tutoriais
-  label: V 1.0
+  label: V 1.1
   logoDark: img/ezrlogo.png
-  favicon: img/ezrlogo.png
+  favicon: img/fav2.png
   strategy: <script type="text/javascript" src="/resources/js/retype.js" />
   
 links:
