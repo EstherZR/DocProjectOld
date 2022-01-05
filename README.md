@@ -9,3 +9,8 @@ Interaja comigo, deixe sua sugestão e vamos aprender juntos! :)
 
 
 
+=== Contato: 
+  - name: Esther ZR
+  - email: estherzandomenico@gmail.com
+  - linkedin: https://www.linkedin.com/in/esther-zandomenico/
+
