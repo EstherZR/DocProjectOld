@@ -7,29 +7,30 @@
     <meta name="turbo-cache-control" content="no-cache">
 
     <!-- Primary Meta Tags -->
-    <title>Aegisub conhecendo</title>
-    <meta name="title" content="Aegisub conhecendo">
+    <title>Aegisub, o que &#233;?</title>
+    <meta name="title" content="Aegisub, o que é?">
     <meta name="description" content="O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidades." />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://estherzr.github.io/tutoriais/aprenda-comigo/aegisub/aegisub-conhecendo/">
-    <meta property="og:title" content="Aegisub conhecendo">
+    <meta property="og:url" content="https://estherzr.github.io/tutoriais/aprenda-comigo/aegisub/o-que-é/">
+    <meta property="og:title" content="Aegisub, o que é?">
     <meta property="og:description" content="O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidades.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://estherzr.github.io/tutoriais/aprenda-comigo/aegisub/aegisub-conhecendo/">
-    <meta property="twitter:title" content="Aegisub conhecendo">
+    <meta property="twitter:url" content="https://estherzr.github.io/tutoriais/aprenda-comigo/aegisub/o-que-é/">
+    <meta property="twitter:title" content="Aegisub, o que é?">
     <meta property="twitter:description" content="O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidades.">
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/tutoriais/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/tutoriais/resources/css/retype.css?v=1.11.2.694729919661" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/tutoriais/resources/css/retype.css?v=1.11.2.694731155783" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/tutoriais/resources/js/config.js?v=1.11.2.694729919661" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/tutoriais/resources/js/config.js?v=1.11.2.694731155783" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/tutoriais/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/tutoriais/resources/js/lunr.js?v=1.11.2.694729919661" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/tutoriais/resources/js/lunr.js?v=1.11.2.694731155783" defer></script>
+    <script id="mermaid-js" type="text/javascript" src="/tutoriais/resources/js/mermaid.js?v=1.11.2" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -181,10 +182,10 @@
                 <div id="docs-sidebar-right-toggle"></div>
                
                 <!-- Page content  -->
-<doc-anchor-target id="aegisub-conhecendo" class="break-words">
+<doc-anchor-target id="aegisub-o-que-é" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#aegisub-conhecendo">#</doc-anchor-trigger>
-        <span>Aegisub conhecendo</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#aegisub-o-que-é">#</doc-anchor-trigger>
+        <span>Aegisub, o que é?</span>
     </h1>
 </doc-anchor-target>
 <div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350">
@@ -230,11 +231,17 @@ As legendas são crias e podem ser salvar com extensão <em>.ass</em> ou <em>.tx
     </div>
 </div>
 <br>
-<p>Fluxo:</p>
-<blockquote>
-<p>Criar a Legenda ➡ Encode ➡ Vídeo renderizado</p>
-</blockquote>
 <hr />
+<doc-anchor-target id="fluxo">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#fluxo">#</doc-anchor-trigger>
+        <span>Fluxo</span>
+    </h2>
+</doc-anchor-target>
+<p>Esse é o fluxo de todo o processo de produção de uma legenda:</p>
+<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph LR
+    A(Criar Legenda) --&gt; B(Realizar Encode)
+    B --&gt; C(Vídeo Renderizado)</pre></div>
 <doc-anchor-target id="quais-programas-necessários">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#quais-programas-necessários">#</doc-anchor-trigger>
@@ -344,6 +351,6 @@ Siga os passos abaixo!</p>
 
         <div id="docs-overlay-target"></div>
 
-        <script>window.__DOCS__ = { "title": "Aegisub conhecendo", icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+        <script>window.__DOCS__ = { "title": "Aegisub, o que é?", icon: "file", hasPrism: false, hasMermaid: true, hasMath: false }</script>
     </body>
 </html>
