@@ -6,7 +6,7 @@ tags : [Aprenda Comigo]
 
 <p style="text-align: justify;"> Aegisub nativamente funciona com o formato Advanced SubStation Alpha (apropriadamente abreviado como ASS), que permite muitos efeitos avançados nas legendas, além de apenas texto cronometrado básico. 
 
->O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidade.s
+>O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidades.
 
 Nesse tutorial, iremos aprender a usá-lo.
 
