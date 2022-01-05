@@ -1,4 +1,9 @@
-#O que é o Retype?
+---
+ícone : nota
+tags : [Aprenda Comigo] [Retype]
+---
+
+# O que é o Retype?
 ![](../img/barra.png)
 
 O Retype é uma plataforma que permite criar e gerenciar documentações.
