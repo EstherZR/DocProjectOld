@@ -1,5 +1,5 @@
 ---
-ícone : nota
+icon : 
 tags : [Aprenda Comigo, Aegisub]
 date : 2022-01-05
 ---

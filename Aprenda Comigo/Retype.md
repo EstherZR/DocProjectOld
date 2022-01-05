@@ -1,5 +1,5 @@
 ---
-ícone : nota
+icon : three-bars
 tags : [Aprenda Comigo, Retype]
 ---
 
