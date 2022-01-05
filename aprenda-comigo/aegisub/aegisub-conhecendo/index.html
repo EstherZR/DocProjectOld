@@ -25,11 +25,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/tutoriais/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/tutoriais/resources/css/retype.css?v=1.11.2.694721973077" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/tutoriais/resources/css/retype.css?v=1.11.2.694726677599" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/tutoriais/resources/js/config.js?v=1.11.2.694721973077" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/tutoriais/resources/js/config.js?v=1.11.2.694726677599" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/tutoriais/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/tutoriais/resources/js/lunr.js?v=1.11.2.694721973077" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/tutoriais/resources/js/lunr.js?v=1.11.2.694726677599" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -47,7 +47,7 @@
                 <a id="docs-site-logo" href="/tutoriais/" class="flex items-center leading-snug text-2xl">
                     <span class="w-10 mr-2 flex-grow-0 flex-shrink-0 overflow-hidden">
                         <img class="max-h-10 dark:hidden md:inline-block" src="/tutoriais/img/doclogo2.png">
-                        <img class="max-h-10 hidden dark:inline-block" src="/tutoriais/img/ezrlogo.png">
+                        <img class="max-h-10 hidden dark:inline-block" src="/tutoriais/img/doclogo2.png">
                     </span>
                     <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Tutoriais</span>
                 </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">V 1.0</span>
@@ -187,13 +187,13 @@
         <span>Aegisub conhecendo</span>
     </h1>
 </doc-anchor-target>
-<p><figure class="content-center">
-    <img src="../img/barra.png" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
+<div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350">
+    <div class="flex items-center flex-shrink-0">Published&nbsp;<span>2022-01-05</span></div>
+</div>
+
 <p style="text-align: justify;"> Aegisub é um editor de legendas avançado para Windows e sistemas semelhantes ao UNIX, como Linux, Mac OS X e BSD. É um software de código aberto e gratuito para qualquer uso.
 <p style="text-align: justify;"> Aegisub nativamente funciona com o formato Advanced SubStation Alpha (apropriadamente abreviado como ASS), que permite muitos efeitos avançados nas legendas, além de apenas texto cronometrado básico. 
+![](../img/barra.png)
 <blockquote>
 <p>O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidades.</p>
 </blockquote>
@@ -242,10 +242,14 @@ As legendas são crias e podem ser salvar com extensão <em>.ass</em> ou <em>.tx
     </h2>
 </doc-anchor-target>
 <p>O primeiro passo é realizar o download do Aegisub:</p>
+<blockquote>
 <p><span class="docs-emoji">&#x1F449;</span> <a href="https://drive.google.com/file/d/0B4PUVC4xalppRVBkdXIxd2FsYjg/view?usp=sharing&amp;resourcekey=0-O_68n6xx3magle4ac5tMvw">Baixe o Aegisub aqui!</a></p>
+</blockquote>
+<br>
 <p>Também usaremos o <em>Any Vídeo Converter</em> para realizar o encode (fixar a legenda) ao vídeo:</p>
-<p><span class="docs-emoji">&#x1F449;</span> [Baixe o ANC aqui!]
-(<a href="https://drive.google.com/file/d/1_RyD8lNCFH2xcOZb7fAol7rd-wKdLX4U/view?usp=sharing">https://drive.google.com/file/d/1_RyD8lNCFH2xcOZb7fAol7rd-wKdLX4U/view?usp=sharing</a>)</p>
+<blockquote>
+<p><span class="docs-emoji">&#x1F449;</span> <a href="https://drive.google.com/file/d/1_RyD8lNCFH2xcOZb7fAol7rd-wKdLX4U/view?usp=sharing">Baixe o ANC aqui!</a></p>
+</blockquote>
 <hr />
 <doc-anchor-target id="como-instalar-o-aegisub">
     <h2>
@@ -255,15 +259,21 @@ As legendas são crias e podem ser salvar com extensão <em>.ass</em> ou <em>.tx
 </doc-anchor-target>
 <p>Após dowload, vamos instalar o programa!
 Siga os passos abaixo!</p>
-<hr />
-<doc-anchor-target id="author-estherzr">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#author-estherzr">#</doc-anchor-trigger>
-        <span>author: EstherZR</span>
-    </h2>
-</doc-anchor-target>
 
 
+<div class="flex items-center mt-6 mb-6">
+    <span>
+        <a href="/tutoriais/tags/">
+            <svg class="inline-block -mb-px mr-1.5 text-blue-500 dark:text-blue-400" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" overflow="visible" fill="currentColor"><g><path d="M21.3 9.88l-8.59-8.59C12.52 1.11 12.27 1 12 1H2c-.55 0-1 .45-1 1v10c0 .27.11.52.29.71l8.59 8.58c.57.57 1.32.88 2.12.88s1.55-.31 2.12-.88l7.17-7.17a3.009 3.009 0 00.01-4.24zm-1.42 2.82l-7.17 7.17c-.39.39-1.02.39-1.42 0L3 11.59V3h8.59l8.29 8.29c.39.39.39 1.03 0 1.41z" /><path d="M7.01 6C6.45 6 6 6.45 6 7s.45 1 1 1 1-.45 1-1-.44-1-.99-1z" /></g></svg>
+        </a>
+        <span class="mr-2"><a href="/tutoriais/tags/aprenda-comigo/" class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span>aprenda comigo</span>
+</a></span>
+        <span class="mr-2"><a href="/tutoriais/tags/aegisub/" class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span>aegisub</span>
+</a></span>
+    </span>
+</div>
 
 
                 <!-- Required only on API pages -->
