@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/EstherZR/tutoriais/sitemap.xml.gz
+Sitemap: https://estherzr.github.io/tutoriais/sitemap.xml.gz
