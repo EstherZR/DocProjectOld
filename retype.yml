@@ -12,7 +12,8 @@ branding:
   strategy: <script type="text/javascript" src="/resources/js/retype.js" />
   
 links:
-- text: Git EstherZR
+- icon: mark-github
+  text: GitHub
   link: https://github.com/EstherZR
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved DocProject - EstherZR."
+  copyright: "&copy; Copyright {{ year }}. All rights reserved _DocProject - EstherZR_."
