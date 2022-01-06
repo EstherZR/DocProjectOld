@@ -1,12 +1,12 @@
 input: .
 output: .retype
 url: https://estherzr.github.io/tutoriais/
-favicon: img/DP.png
+favicon: img/DPfavicon2.png
 
 branding:
-  logo: img/DOClogo2.png
   title: Tutoriais
   label: V 1.1
+  logo: img/DOClogo2.png
   logoDark: img/DOClogo2.png
   
   strategy: <script type="text/javascript" src="/resources/js/retype.js" />
