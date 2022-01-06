@@ -1,18 +1,18 @@
 input: .
 output: .retype
 url: https://estherzr.github.io/tutoriais/
+favicon: img/DP.png
+
 branding:
-
   logo: img/DOClogo2.png
-
   title: Tutoriais
   label: V 1.1
-  logoDark: img/ezrlogo.png
-  favicon: img/DP.svg
+  logoDark: img/DOClogo2.png
+  
   strategy: <script type="text/javascript" src="/resources/js/retype.js" />
   
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Git EstherZR
+  link: https://github.com/EstherZR
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. All rights reserved DocProject - EstherZR."
