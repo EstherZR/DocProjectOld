@@ -7,7 +7,8 @@ date : 2022-01-05
 # Aegisub, o que é?
 <p style="text-align: justify;"> Aegisub é um editor de legendas avançado para Windows e sistemas semelhantes ao UNIX, como Linux, Mac OS X e BSD. É um software de código aberto e gratuito para qualquer uso.
 
-<p style="text-align: justify;"> Aegisub nativamente funciona com o formato Advanced SubStation Alpha (apropriadamente abreviado como ASS), que permite muitos efeitos avançados nas legendas, além de apenas texto cronometrado básico. 
+<p style="text-align: justify;"> Aegisub nativamente funciona com o formato Advanced SubStation Alpha (apropriadamente abreviado como ASS), que permite muitos efeitos avançados nas legendas, além de apenas texto cronometrado básico.
+
 ![](../img/barra.png)
 
 >O objetivo da Aegisub é oferecer suporte ao uso dessas funções avançadas com facilidades.
