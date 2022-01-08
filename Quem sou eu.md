@@ -45,7 +45,6 @@ Amplo conhecimento em testes de sistemas web, mobile e desktop.
 Além de realizar a criação de uma base de documentação para acesso e aprendizado de colaboradores. </p>
 ==-
 
-<br>
 
 ==- Contato
   - nome: Esther ZR
