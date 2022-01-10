@@ -1,16 +1,20 @@
 ---
 order : 994
-icon : three-bars
+icon : 
 tags : [Aprenda Comigo, Retype]
 ---
 
+# Retype, o que é?
+<p style="text-align: justify;"> 
 O Retype é uma plataforma que permite criar e gerenciar documentações.
 É uma ferramenta gratuita e pode ser usada juntamente com o Github para hospedagem e gerenciamento do conteúdo criado.
-Os arquivos possuem estrutura _'.md'_ o que facilita muito a criação/edição de documentos.
+Os arquivos possuem estrutura '.md' (markdown) o que facilita muito a criação/edição de documentos.
+O melhor de tudo, por ser uma ferramenta gratuita, também é possível usá-la para documentar arquivos da sua empresa/organização. </p>
 
-![barra](../img/barra.png "Barra")
+![](../img/barra.png)
 
-![Retype](../img/Retype/Retype.png "Retype")
+![](../Retype/Retype.png)
+
 
 Aqui iremos aprender como instalar, manipular e hospedar uma página no Github.
 
@@ -22,7 +26,6 @@ Vem comigo!!!
 # Site Oficial
 O site oficial oferece total suporte ao usuário. 
 Se você possui conhecimento em inglês, conseguirá seguir os passos para criação da sua própria página.
-Por ser uma ferramenta gratuita, também é possível usá-la para documentar arquivos da sua empresa/organização.
 
 >👉 [Retype Oficial](https://retype.com/)
 
@@ -37,7 +40,8 @@ Para nosso artigo, usaremos a instalação pelo `npm`.
 >🤩 <span style="color:darkgreen">**Se liga na Dica:** </span>  
 Para esse tutorial estou com o npm na versão abaixo: <br>
 _Comando:_ `npm --version`
-![NPM](../img/Retype/npm.png "npm")
+![Versão do NPM](../Retype/npm.png "NPM")
+
 
  
 
