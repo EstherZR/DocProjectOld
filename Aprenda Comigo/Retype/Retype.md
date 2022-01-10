@@ -5,16 +5,14 @@ tags : [Aprenda Comigo, Retype]
 ---
 
 # Retype, o que é?
-<p style="text-align: justify;"> 
-O Retype é uma plataforma que permite criar e gerenciar documentações.
+<p style="text-align: justify;"> O Retype é uma plataforma que permite criar e gerenciar documentações.
 É uma ferramenta gratuita e pode ser usada juntamente com o Github para hospedagem e gerenciamento do conteúdo criado.
 Os arquivos possuem estrutura '.md' (markdown) o que facilita muito a criação/edição de documentos.
-O melhor de tudo, por ser uma ferramenta gratuita, também é possível usá-la para documentar arquivos da sua empresa/organização. </p>
-
+O melhor de tudo, por ser uma ferramenta gratuita, também é possível usá-la para documentar arquivos da sua empresa/organização.</p>
 
 ![](../img/barra.png)
 
-![](../img/Retype/Retype.png)
+![](../Retype/Retype.png)
 
 
 Aqui iremos aprender como instalar, manipular e hospedar uma página no Github.
