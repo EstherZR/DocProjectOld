@@ -12,7 +12,7 @@ O melhor de tudo, por ser uma ferramenta gratuita, também é possível usá-la 
 
 ![](../img/barra.png)
 
-![](../Retype/Retype.png)
+![](../img/Retype.png)
 
 
 Aqui iremos aprender como instalar, manipular e hospedar uma página no Github.
