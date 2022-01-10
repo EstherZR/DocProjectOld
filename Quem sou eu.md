@@ -39,15 +39,20 @@ Formada em **Sistemas de Informações** em 2019 porém já trabalhando com TI d
 ==-
 
 
-==- Atividades Profissionais Realizadas
-<p style="text-align: justify;">Levantamento de Requisitos para evolução do Software, Verificação e Validação dos Requisitos definidos ao realizar os Testes de Softwares, Criação de Casos de Testes, Execução de Testes de Softwares, Criaçãode Relatórios Básicos do Sistema, Aplicação de Treinamentos Internos  (Colaboradores)/Externos(Clientes).
-Amplo conhecimento em testes de sistemas web, mobile e desktop.
-Além de realizar a criação de uma base de documentação para acesso e aprendizado de colaboradores. </p>
+==- Habilidades Profissionais
+   - Levantamento de Requisitos para evolução de Software;
+   - Verificação e Validação dos Requisitos definidos ao realizar os Testes de Softwares;
+   - Criação de Casos de Testes;
+   - Execução de Testes de Softwares;
+   - Criaçãode Relatórios Básicos do Sistema;
+   - Aplicação de Treinamentos Internos  (Colaboradores)/Externos(Clientes);
+   - Amplo conhecimento em testes de sistemas web, mobile e desktop;
+   - Além de realizar a criação de uma base de documentação para acesso e aprendizado de colaboradores.
 ==-
 
 
 ==- Contato
-  - nome: Esther ZR
-  - email: estherzandomenico@gmail.com
-  - linkedin: [esther-zandomenico](https://www.linkedin.com/in/esther-zandomenico/)
+  - Nome: Esther ZR
+  - Email: estherzandomenico@gmail.com
+  - Linkedin: [esther-zandomenico](https://www.linkedin.com/in/esther-zandomenico/)
 ==-
