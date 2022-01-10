@@ -2,6 +2,7 @@
 order : 994
 icon : 
 tags : [Aprenda Comigo, Retype]
+date : 2022-01-10
 ---
 
 # Retype, o que é?
@@ -39,7 +40,7 @@ Para nosso artigo, usaremos a instalação pelo `npm`.
 >🤩 <span style="color:darkgreen">**Se liga na Dica:** </span>  
 Para esse tutorial estou com o npm na versão abaixo: <br>
 _Comando:_ `npm --version`
-![Versão do NPM](../Retype/npm.png "NPM")
+![Versão do NPM](../img/npm.png "NPM")
 
 
  
