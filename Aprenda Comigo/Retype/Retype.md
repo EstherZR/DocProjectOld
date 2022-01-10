@@ -11,9 +11,10 @@ O Retype é uma plataforma que permite criar e gerenciar documentações.
 Os arquivos possuem estrutura '.md' (markdown) o que facilita muito a criação/edição de documentos.
 O melhor de tudo, por ser uma ferramenta gratuita, também é possível usá-la para documentar arquivos da sua empresa/organização. </p>
 
+
 ![](../img/barra.png)
 
-![](../Retype/Retype.png)
+![](../img/Retype/Retype.png)
 
 
 Aqui iremos aprender como instalar, manipular e hospedar uma página no Github.
